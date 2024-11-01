@@ -22,8 +22,8 @@ const questions = [
     },
     {
       question: "Who is the current Chief Minister of Chhattisgarh?",
-      options: ["Raman Singh", "Bhupesh Baghel", "Ajit Jogi", "Mahendra Karma"],
-      answer: "Bhupesh Baghel",
+      options: ["Raman Singh", "Bhupesh Baghel", "Vishnu Deo Sai", "Mahendra Karma"],
+      answer: "Vishnu Deo Sai",
     },
     {
       question: "Who is the current Chief Minister of Goa?",
@@ -37,8 +37,8 @@ const questions = [
     },
     {
       question: "Who is the current Chief Minister of Haryana?",
-      options: ["Bhupinder Singh Hooda", "Manohar Lal Khattar", "Om Prakash Chautala", "Kiran Choudhry"],
-      answer: "Manohar Lal Khattar",
+      options: ["Bhupinder Singh Hooda", "Manohar Lal Khattar", "Nayab Singh Saini", "Kiran Choudhry"],
+      answer: "Nayab Singh Saini",
     },
     {
       question: "Who is the current Chief Minister of Himachal Pradesh?",
@@ -62,8 +62,8 @@ const questions = [
     },
     {
       question: "Who is the current Chief Minister of Madhya Pradesh?",
-      options: ["Shivraj Singh Chouhan", "Kamal Nath", "Digvijaya Singh", "Uma Bharti"],
-      answer: "Shivraj Singh Chouhan",
+      options: ["Shivraj Singh Chouhan", "Mohan Yadav", "Digvijaya Singh", "Uma Bharti"],
+      answer: "Mohan Yadav",
     },
     {
       question: "Who is the current Chief Minister of Maharashtra?",
@@ -82,8 +82,8 @@ const questions = [
     },
     {
       question: "Who is the current Chief Minister of Mizoram?",
-      options: ["Zoramthanga", "Lal Thanhawla", "Pu Laldenga", "C. L. Ruala"],
-      answer: "Zoramthanga",
+      options: ["Zoramthanga", "Lal Thanhawla", "Lalduhoma", "C. L. Ruala"],
+      answer: "Lalduhoma",
     },
     {
       question: "Who is the current Chief Minister of Nagaland?",
@@ -102,8 +102,8 @@ const questions = [
     },
     {
       question: "Who is the current Chief Minister of Rajasthan?",
-      options: ["Vasundhara Raje", "Ashok Gehlot", "Sachin Pilot", "Bhairon Singh Shekhawat"],
-      answer: "Ashok Gehlot",
+      options: ["Vasundhara Raje", "Ashok Gehlot", "Sachin Pilot", "Bhajan Lal Sharma"],
+      answer: "Bhajan Lal Sharma",
     },
     {
       question: "Who is the current Chief Minister of Sikkim?",
@@ -117,8 +117,8 @@ const questions = [
     },
     {
       question: "Who is the current Chief Minister of Telangana?",
-      options: ["K. Chandrashekar Rao", "K. T. Rama Rao", "Etela Rajender", "T. Harish Rao"],
-      answer: "K. Chandrashekar Rao",
+      options: ["K. Chandrashekar Rao", "Revanth Reddy", "Etela Rajender", "T. Harish Rao"],
+      answer: "Revanth Reddy",
     },
     {
       question: "Who is the current Chief Minister of Tripura?",
