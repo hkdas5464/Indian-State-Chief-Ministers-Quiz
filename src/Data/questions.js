@@ -3,7 +3,7 @@ const questions = [
     {
       question: "Who is the current Chief Minister of Andhra Pradesh?",
       options: ["N. Chandrababu Naidu", "Y. S. Jagan Mohan Reddy", "Kiran Kumar Reddy", "Y. S. Rajasekhara Reddy"],
-      answer: "Y. S. Jagan Mohan Reddy",
+      answer: "N. Chandrababu Naidu",
     },
     {
       question: "Who is the current Chief Minister of Arunachal Pradesh?",
